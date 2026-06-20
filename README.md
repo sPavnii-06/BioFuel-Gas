@@ -34,14 +34,9 @@ Potentiometer, Wires, Breadboard	Circuit connection
 1️⃣ Sensors detect gas concentration 2️⃣ Arduino converts sensor values → ppm 3️⃣ If gas > safety threshold → Alert ⚠ 4️⃣ LCD displays real-time data 5️⃣ Buzzer activates for danger condition
 
 📊 System Flow
-flowchart TD
-A[Start] --> B[Sensor Data Reading]
-B --> C{Gas Level Safe?}
-C -->|Yes| D[Display NORMAL Status]
-C -->|No| E[Activate Buzzer & Show ALERT]
-E --> F[Continuous Monitoring]
-D --> F
-F --> B
+<img width="1080" height="828" alt="System workflow" src="https://github.com/user-attachments/assets/22803280-73e7-409b-a05f-044d4ef1685b" />
+
+
 
 
 
