@@ -1,4 +1,5 @@
 BioFuel-Gas
+
 IOT BASED BIOFUEL GASES MONITORING AND ALERTING SYSTEM
 
  Real-time monitoring of methane & toxic gases in a biofuel chamber
@@ -20,15 +21,24 @@ Protect workers with alert notifications
 Ensure efficient hydrogen/biofuel generation
 Provide low-cost safety solution for farmers
 
-🛠 Hardware Components
-Component	Purpose
-Arduino Uno	Main controller
-MQ-135 Sensor	Air Quality / VOC / CO₂
-MQ-7 Sensor	Carbon Monoxide
-MQ-4 Sensor	Methane Detection
-16x2 LCD	Live display output
-Buzzer	Alert system
-Potentiometer, Wires, Breadboard	Circuit connection
+### 🛠️ Hardware Components
+
+| Component | Purpose |
+| :--- | :--- |
+| **Arduino Uno** | Main controller |
+| **MQ-135 Sensor** | Air Quality / VOC / $CO_2$ |
+| **MQ-7 Sensor** | Carbon Monoxide |
+| **MQ-4 Sensor** | Methane Detection |
+| **16x2 LCD** | Live display output |
+| **Buzzer** | Alert system |
+| **Potentiometer, Wires, Breadboard** | Circuit connection |
+
+---
+
+### ⚙️ Working Principle
+
+1. **Sensors detect gas concentration** from the biofuel environment.
+2. **Arduino converts sensor** analog signals into readable digital data values to trigger alerts or display metrics.
 ⚙ Working Principle
 
 1️⃣ Sensors detect gas concentration 2️⃣ Arduino converts sensor values → ppm 3️⃣ If gas > safety threshold → Alert ⚠ 4️⃣ LCD displays real-time data 5️⃣ Buzzer activates for danger condition
