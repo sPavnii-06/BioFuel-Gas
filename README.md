@@ -1,6 +1,6 @@
-BioFuel-Gas
+# BioFuel-Gas
 
-IOT BASED BIOFUEL GASES MONITORING AND ALERTING SYSTEM
+AN IOT SOLUTION FOR DETECTING HARMFUL BIOFUEL GASES MONITORING AND ALERTING SYSTEM
 
  Real-time monitoring of methane & toxic gases in a biofuel chamber
 
@@ -10,7 +10,7 @@ This project ensures safety in biofuel generation by continuously monitoring haz
 
 The goal is to make agriculture-based biofuel units safer by preventing gas leakage hazards.
 
-🚨 Problem Statement
+ Problem Statement
 
 Biofuel production from agricultural waste produces toxic and explosive gases. Manual monitoring is unsafe and inefficient. A low-cost IoT-based smart alert system is required for rural and industrial biofuel chambers.
 
