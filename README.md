@@ -35,6 +35,10 @@ Provide low-cost safety solution for farmers
 
 ---
 
+### 🕹️ Circuit Simulation Preview
+<img width="1030" height="1289" alt="Tinkercad simulation" src="https://github.com/user-attachments/assets/cf16ca2b-f452-4e48-b449-978b49e797f9" />
+
+
 ### ⚙️ Working Principle
 
 1. **Sensors detect gas concentration** from the biofuel environment.
