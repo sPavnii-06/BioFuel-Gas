@@ -60,7 +60,8 @@ Cloud data logging (Firebase/ThingSpeak)
 Mobile app + SMS alerts
 Automatic ventilation controls
 AI-based gas leakage prediction
-👩‍💻 Authors
+
+##👩‍💻 Authors
 
 Pavni Singh & Kumkum Chauhan
 
